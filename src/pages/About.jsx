@@ -30,7 +30,7 @@ const About = () => {
         {/* Photo */}
         <div className="relative mx-auto w-80 h-80 sm:w-48 sm:h-48 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-blue-500 shadow-lg mb-6 mt-7 ">
           <img
-            src="/src/assets/img/DSC_3883.JPG"
+            src="/public/img/dsc_3883.jpg"
             alt="Asep Nurdin"
             className="w-full h-full object-cover"
           />

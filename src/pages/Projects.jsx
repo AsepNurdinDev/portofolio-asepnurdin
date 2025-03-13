@@ -3,20 +3,17 @@ const Projects = () => {
     {
       title: "News Website",
       description: "A news website that contains news about a region, such as history, geography, natural beauty.",
-      image: "/src/assets/img/honjewara.jpg", // Ganti dengan gambar proyek Anda
-      // link: "https://www.example.com/project1"
+      image: "/public/img/honjewara.jpg", 
     },
     {
       title: "Portfolio Website",
       description: "A personal portfolio website to showcase skills and projects, built with React and TailwindCSS.",
-      image: "/src/assets/img/portofolio.jpg", // Ganti dengan gambar proyek Anda
-      // link: "https://www.example.com/project2"
+      image: "/public/img/portofolio.jpg", 
     },
     {
       title: "Student Data Management",
       description: "Application to load student data who will register at a school institution, the application is built using pure PHP technology and tailwindscss to beautify the appearance.",
-      image: "/src/assets/img/sman7garut.jpg", // Ganti dengan gambar proyek Anda
-      // link: "https://www.example.com/project3"
+      image: "/public/img/sman7garut.jpg",
     }
   ];
 

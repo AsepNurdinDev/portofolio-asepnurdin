@@ -6,7 +6,7 @@ const Home = () => {
         <div className="text-center">
           <div className="w-80 h-80 mx-auto rounded-full overflow-hidden mb-8 border-4 border-blue-500">
             <img
-              src="/src/assets/img/DSC_3884.JPG" 
+              src="/public/img/dsc_3884.jpg" 
               alt="Your Name"
               className="object-cover w-full h-full"
             />
