@@ -3,17 +3,17 @@ const Projects = () => {
     {
       title: "News Website",
       description: "A news website that contains news about a region, such as history, geography, natural beauty.",
-      image: "/public/img/honjewara.jpg", 
+      image: "/img/honjewara.jpg", 
     },
     {
       title: "Portfolio Website",
       description: "A personal portfolio website to showcase skills and projects, built with React and TailwindCSS.",
-      image: "/public/img/portofolio.jpg", 
+      image: "/img/portofolio.jpg", 
     },
     {
       title: "Student Data Management",
       description: "Application to load student data who will register at a school institution, the application is built using pure PHP technology and tailwindscss to beautify the appearance.",
-      image: "/public/img/sman7garut.jpg",
+      image: "/img/sman7garut.jpg",
     }
   ];
 
